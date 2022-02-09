@@ -1,0 +1,14 @@
+- service:
+    name: ruvds1
+- service:
+    name: eve1
+- service:
+    name: eve2
+- service:
+    name: eve3
+- service:
+    name: eve4
+- service:
+    name: lenovo1
+- service:
+    name: lenovo2
