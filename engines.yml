@@ -10,5 +10,7 @@
     name: eve4
 - service:
     name: lenovo1
+    seed: 0
+    chunk: 100000000
 - service:
     name: lenovo2
